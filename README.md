@@ -1,4 +1,2 @@
-- Hi, I’m ElTuna
-- 🌱 I’m currently learning Aoi.js (DBD.js)
-- 📫 you can contact me on Discord: ElTuna UserID:620734023328595979
--  <:yesman:775187533368786954>
+📫 you can contact me on Discord:
+UserID: 620734023328595979
